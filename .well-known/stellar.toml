@@ -1,41 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=[
-"GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
-"GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
-]
+ACCOUNTS=["GCB3YBBRVESW2FO4HPKUHP77WRKOKQ7ZCUFVSOKGDHAHZSEJCMBR5P3Y"]
 
 [DOCUMENTATION]
-ORG_NAME="Qiddiya"
-ORG_URL="https://www.qiddiya-stellar.org/"
-ORG_DESCRIPTION="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-ORG_LOGO="https://www.qiddiya-stellar.org/qid.png"
+ORG_NAME="Grayscale"
+ORG_URL="https://www.grayscale-stellar.com/"
+ORG_DESCRIPTION="Grayscale is the world’s leading crypto asset manager by assets under management. We transform disruptive technologies of the future into investment opportunities today."
+ORG_LOGO="https://www.grayscale-stellar.com/gscale.jpg"
 
 
 [[CURRENCIES]]
-code="Qiddiya"
+code="GBAT"
 status="live"
-display_decimals=2
-issuer="GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435"
+display_decimals=5
+issuer="GCB3YBBRVESW2FO4HPKUHP77WRKOKQ7ZCUFVSOKGDHAHZSEJCMBR5P3Y"
 anchor_asset_type="crypto"
-name="Qiddiya"
-desc="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-image="https://www.qiddiya-stellar.org/qid.png"
-fixed_number=100000000
-max_number=100000000
-is_unlimited=false
-#Qiddiya Token was issued using the open and inclusive Stellar blockchain network.
-
-[[CURRENCIES]]
-code="QCP"
-status="live"
-display_decimals=2
-issuer="GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N"
-anchor_asset_type="crypto"
-name="Qiddiya City Pass"
-desc="Qiddiya City Pass will blow your mind and bring up to a new level of entertainment"
-image="https://www.qiddiya-stellar.org/qid2.png"
-fixed_number=5000000
-max_number=5000000
-is_unlimited=false
-#Qiddiya City Pass was issued using the open and inclusive Stellar blockchain network.
+name="Grayscale Basic"
+desc="Grayscale Basic Attention Token Trust is one of the first securities solely and passively invested in the Basic Attention Token"
+image="https://www.grayscale-stellar.com/gscale.jpg"
