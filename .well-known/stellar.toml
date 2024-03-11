@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCB3YBBRVESW2FO4HPKUHP77WRKOKQ7ZCUFVSOKGDHAHZSEJCMBR5P3Y"]
+ACCOUNTS=["GAJBTODLHJTFUQTYGLVGGTU3SCZJZMLZYBRWAJNLKTJXFLJLKSCLPVHE"]
 
 [DOCUMENTATION]
-ORG_NAME="Grayscale"
-ORG_URL="https://www.grayscale-stellar.com/"
-ORG_DESCRIPTION="Grayscale is the world’s leading crypto asset manager by assets under management. We transform disruptive technologies of the future into investment opportunities today."
-ORG_LOGO="https://www.grayscale-stellar.com/gscale.jpg"
+ORG_NAME="GoFundMe"
+ORG_URL="https://www.gofundstellar.com/"
+ORG_DESCRIPTION="Your home for help. Discover fundraisers inspired by what you care about."
+ORG_LOGO="https://www.gofundstellar.com/gfm.jpg"
 
 
 [[CURRENCIES]]
-code="GBAT"
+code="GFM"
 status="live"
-display_decimals=5
-issuer="GCB3YBBRVESW2FO4HPKUHP77WRKOKQ7ZCUFVSOKGDHAHZSEJCMBR5P3Y"
+display_decimals=4
+issuer="GAJBTODLHJTFUQTYGLVGGTU3SCZJZMLZYBRWAJNLKTJXFLJLKSCLPVHE"
 anchor_asset_type="crypto"
-name="Grayscale Basic"
-desc="Grayscale Basic Attention Token Trust is one of the first securities solely and passively invested in the Basic Attention Token"
-image="https://www.grayscale-stellar.com/gscale.jpg"
+name="GoFundMe"
+desc="Your home for help. Discover fundraisers inspired by what you care about."
+image="https://www.gofundstellar.com/gfm.jpg"
