@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAJBTODLHJTFUQTYGLVGGTU3SCZJZMLZYBRWAJNLKTJXFLJLKSCLPVHE"]
+ACCOUNTS=["GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"]
 
 [DOCUMENTATION]
-ORG_NAME="GoFundMe"
-ORG_URL="https://www.gofundstellar.com/"
-ORG_DESCRIPTION="Your home for help. Discover fundraisers inspired by what you care about."
-ORG_LOGO="https://www.gofundstellar.com/gfm.jpg"
+ORG_NAME="American Express"
+ORG_URL="https://www.amex-stellar.com/"
+ORG_DESCRIPTION="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
+ORG_LOGO="https://www.amex-stellar.com/amex.jpg"
 
 
 [[CURRENCIES]]
-code="GFM"
+code="AMEX"
 status="live"
-display_decimals=4
-issuer="GAJBTODLHJTFUQTYGLVGGTU3SCZJZMLZYBRWAJNLKTJXFLJLKSCLPVHE"
+display_decimals=7
+issuer="GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"
 anchor_asset_type="crypto"
-name="GoFundMe"
-desc="Your home for help. Discover fundraisers inspired by what you care about."
-image="https://www.gofundstellar.com/gfm.jpg"
+name="American Express"
+desc="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
+image="https://www.amex-stellar.com/amex.jpg"
