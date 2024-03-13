@@ -6,7 +6,7 @@ ACCOUNTS=["GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"]
 ORG_NAME="American Express"
 ORG_URL="https://www.amex-stellar.com/"
 ORG_DESCRIPTION="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
-ORG_LOGO="https://www.amex-stellar.com/amex.jpg"
+ORG_LOGO="https://www.amex-stellar.com/amex.png"
 
 
 [[CURRENCIES]]
@@ -17,4 +17,4 @@ issuer="GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"
 anchor_asset_type="crypto"
 name="American Express"
 desc="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
-image="https://www.amex-stellar.com/amex.jpg"
+image="https://www.amex-stellar.com/amex.png"
